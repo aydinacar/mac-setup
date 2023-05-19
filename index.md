@@ -1,3 +1,5 @@
+### macbook m1/m2 setup for developer
+
 - brew
   ```
   /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
